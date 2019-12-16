@@ -1,3 +1,4 @@
 # mergefix
 attempt to get out of a bad merge
-blah blah
+remote change
+local change
